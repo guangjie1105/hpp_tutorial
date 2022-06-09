@@ -21,3 +21,4 @@ print(u.name)
 
 # self is like the instance in the method , so method is the instance method, the first argument is always self , it shows which instance will use this method 
 # in the init is like to add argument to the class
+hahahaha
